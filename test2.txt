@@ -1,0 +1,33 @@
+<!DOCTYPE>
+<html dir="rtl" lang="en">
+    <head>
+        <title>This is my webpage</title>
+    </head>
+    <body>
+        <h1 background="home">This is the Heading</h1>
+        <p>THE content in the document<br />
+        ,This is the line break to the paragraph></p>
+        <hr />
+        <p>This is below the line</p>
+        <center>
+            <p>This statement allign in the centre of the page</p>
+        </center>
+        <pre>
+            #include<stdio.h>---> This is the header file extention for C-programing Language
+        </pre>
+        <p>An example of this technique appears in teh movie "12&nbsp; Angry &nbsp;Men"</p>
+        <p>When an important word is came accross the paragraph <u>Underline</u>is used to highlight it</p>
+        <p align="left">This Paragraph is alligned in left</p>
+        <p align="right">This Paragraph is alligned in right</p>
+        <p align="center">This Paragraph is alligned in center</p>
+        <h2 align="center">This is in center</h2>
+        <p id="HTML">THIS ELEMENT IS IN HTML</p>
+        <p id="css">THIS ELEMENT IS IN CSS</p>
+        <p title="Hello,HTML!!">THIS is titled para</p>
+        <p style="font-size: medium;color: brown;">This customised para it also used for heading too</p>
+        <p><b>Bolded text</b>;<i>Italic text</i>;<strike>strike text</strike>;<tt>Monospaced</tt>;<sup>super text</sup></p>
+        <p>This is insert data<ins>Hello its inserted data</ins></p>
+
+
+    </body>
+</html>
